@@ -1,4 +1,4 @@
-#Cucumber BDD CityBikes API Automation
+# Cucumber BDD CityBikes API Automation
 This is API test automation project using Java Cucumber with TestNG
 
 ## Things needed
